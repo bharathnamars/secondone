@@ -1,0 +1,65 @@
+
+ªcom.infosys.infymarket.product.dto.SubscribedProdDTO#valueOf(Lcom/infosys/infymarket/product/entity/SubscribedProd;)Lcom/infosys/infymarket/product/dto/SubscribedProdDTO;
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java0! 0(("1*É
+1
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java1( 1(?ùö
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java1, 1(=:
+%04com.infosys.infymarket.product.dto.SubscribedProdDTO"4com.infosys.infymarket.product.dto.SubscribedProdDTO‹
+ˆ
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java1( 1(?
+%1">com.infosys.infymarket.product.dto.SubscribedProdDTO#<init>()V*<
+:
+%04com.infosys.infymarket.product.dto.SubscribedProdDTO–
+“
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java1 1(@I
+subscribedprodDTO4com.infosys.infymarket.product.dto.SubscribedProdDTO"__id*<
+:
+%04com.infosys.infymarket.product.dto.SubscribedProdDTOÌÉ
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java2 2(:
+%2java.lang.String"Scom.infosys.infymarket.product.entity.SubscribedProd#getBuyerid()Ljava/lang/String;*H
+F
+subscribedprod4com.infosys.infymarket.product.entity.SubscribedProd2getBuyerid()ðí
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java2 2(;
+
+%3void"Tcom.infosys.infymarket.product.dto.SubscribedProdDTO#setBuyerid(Ljava/lang/String;)V*K
+I
+subscribedprodDTO4com.infosys.infymarket.product.dto.SubscribedProdDTO*
+
+%2java.lang.String2setBuyerid(Ljava/lang/String;)ÊÇ
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java3 3(8
+%4java.lang.String"Rcom.infosys.infymarket.product.entity.SubscribedProd#getProdid()Ljava/lang/String;*H
+F
+subscribedprod4com.infosys.infymarket.product.entity.SubscribedProd2getProdid()îë
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java3 3(9
+
+%5void"Scom.infosys.infymarket.product.dto.SubscribedProdDTO#setProdid(Ljava/lang/String;)V*K
+I
+subscribedprodDTO4com.infosys.infymarket.product.dto.SubscribedProdDTO*
+
+%4java.lang.String2setProdid(Ljava/lang/String;)ÐÍ
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java4  4(<
+%6java.lang.Integer"Ucom.infosys.infymarket.product.entity.SubscribedProd#getQuantity()Ljava/lang/Integer;*H
+F
+subscribedprod4com.infosys.infymarket.product.entity.SubscribedProd2getQuantity()õò
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java4 4(=
+
+%7void"Vcom.infosys.infymarket.product.dto.SubscribedProdDTO#setQuantity(Ljava/lang/Integer;)V*K
+I
+subscribedprodDTO4com.infosys.infymarket.product.dto.SubscribedProdDTO*
+
+%6java.lang.Integer2 setQuantity(Ljava/lang/Integer;)"Ñ
+
+wC:/Users/Kasyap/Desktop/good folder/git aws bro/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java5 5(K
+I
+subscribedprodDTO4com.infosys.infymarket.product.dto.SubscribedProdDTO:F
+subscribedprod4com.infosys.infymarket.product.entity.SubscribedProdB8"6
+4com.infosys.infymarket.product.dto.SubscribedProdDTO

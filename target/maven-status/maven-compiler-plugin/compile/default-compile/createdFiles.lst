@@ -1,0 +1,15 @@
+com\infosys\infymarket\product\Config.class
+com\infosys\infymarket\product\exception\InfyMarketException.class
+com\infosys\infymarket\product\dto\BuyerDTO.class
+com\infosys\infymarket\product\utility\ExceptionControllerAdvice.class
+com\infosys\infymarket\product\dto\ProductDTO.class
+com\infosys\infymarket\product\ProductApplication.class
+com\infosys\infymarket\product\entity\SubscribedProd.class
+com\infosys\infymarket\product\repository\ProductRepository.class
+com\infosys\infymarket\product\controller\ProductController.class
+com\infosys\infymarket\product\entity\Product.class
+com\infosys\infymarket\product\service\SubscribedProdService.class
+com\infosys\infymarket\product\service\ProductService.class
+com\infosys\infymarket\product\utility\ErrorInfo.class
+com\infosys\infymarket\product\dto\SubscribedProdDTO.class
+com\infosys\infymarket\product\repository\SubscribedProdRepository.class

@@ -1,0 +1,7 @@
+organization=perfectkey
+projectKey=bharathnamars_secondfinal
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23159
+dashboardUrl=https://sonarcloud.io/dashboard?id=bharathnamars_secondfinal
+ceTaskId=AXvJgXvQc5pxCGGJygLX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvJgXvQc5pxCGGJygLX
